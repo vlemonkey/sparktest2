@@ -1,0 +1,25 @@
+[info] Packaging /home/s/IdeaProjects/sparktest2/target/scala-2.10/sparktest2_2.10-1.0.jar ...
+[debug] Input file mappings:
+[debug] 	com
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com
+[debug] 	com/test/ReduceTest.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/ReduceTest.class
+[debug] 	com/test/Spark2Mysql.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/Spark2Mysql.class
+[debug] 	com/test/ReduceTest$$anonfun$2.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/ReduceTest$$anonfun$2.class
+[debug] 	com/test/Spark2Mysql$$anonfun$1.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/Spark2Mysql$$anonfun$1.class
+[debug] 	com/test/ReduceTest$$anonfun$1.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/ReduceTest$$anonfun$1.class
+[debug] 	com/test/Spark2Mysql$.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/Spark2Mysql$.class
+[debug] 	com/test
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test
+[debug] 	com/test/ReduceTest$$anonfun$3.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/ReduceTest$$anonfun$3.class
+[debug] 	com/test/ReduceTest$$anonfun$3$$anonfun$apply$1.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/ReduceTest$$anonfun$3$$anonfun$apply$1.class
+[debug] 	com/test/ReduceTest$.class
+[debug] 	  /home/s/IdeaProjects/sparktest2/target/scala-2.10/classes/com/test/ReduceTest$.class
+[info] Done packaging.
